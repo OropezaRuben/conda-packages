@@ -16,6 +16,7 @@ fastqc
 subread
 freebayes=1.3.6
 gatk
+gawk
 hisat2
 igv
 jq
