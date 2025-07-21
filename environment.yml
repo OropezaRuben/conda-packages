@@ -1,0 +1,11 @@
+name: CdeC_Mexico
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - bioconda::bwa
+  - bioconda::vcftools
+  - bioconda::samtools
+  - bioconda::fastqc
+  - bioconda::fastp
