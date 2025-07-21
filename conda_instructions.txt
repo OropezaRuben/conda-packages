@@ -1,0 +1,2 @@
+conda env create -n CdeC_Mexico
+conda install bioconda::fastp bioconda::fastqc bioconda::vcftools bioconda::bwa bioconda::samtools
